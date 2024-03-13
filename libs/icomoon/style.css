@@ -1,0 +1,109 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?ujfuu');
+  src:  url('fonts/icomoon.eot?ujfuu#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ujfuu') format('truetype'),
+    url('fonts/icomoon.woff?ujfuu') format('woff'),
+    url('fonts/icomoon.svg?ujfuu#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow-up:before {
+  content: "\e900";
+}
+.icon-arrow:before {
+  content: "\e901";
+}
+.icon-arrow-down:before {
+  content: "\e902";
+}
+.icon-google_store .path1:before {
+  content: "\e90f";
+  color: rgb(33, 150, 243);
+}
+.icon-google_store .path2:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(76, 175, 80);
+}
+.icon-google_store .path3:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(240, 187, 31);
+}
+.icon-google_store .path4:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(241, 90, 43);
+}
+.icon-apple:before {
+  content: "\e913";
+}
+.icon-arrow_left:before {
+  content: "\e915";
+}
+.icon-arrow_right1:before {
+  content: "\e916";
+}
+.icon-builds:before {
+  content: "\e918";
+}
+.icon-letter:before {
+  content: "\e91e";
+}
+.icon-facebook1:before {
+  content: "\e91a";
+}
+.icon-heard:before {
+  content: "\e91b";
+}
+.icon-instagram1:before {
+  content: "\e91c";
+}
+.icon-leaf:before {
+  content: "\e91d";
+}
+.icon-map:before {
+  content: "\e91f";
+}
+.icon-play:before {
+  content: "\e920";
+}
+.icon-plus:before {
+  content: "\e921";
+}
+.icon-pointer:before {
+  content: "\e922";
+}
+.icon-square:before {
+  content: "\e923";
+}
+.icon-swim_man:before {
+  content: "\e924";
+}
+.icon-taxi:before {
+  content: "\e925";
+}
+.icon-twitter:before {
+  content: "\e926";
+}
+.icon-hearful:before {
+  content: "\e903";
+}
